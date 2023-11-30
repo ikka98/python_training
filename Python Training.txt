@@ -40,4 +40,4 @@ Pandas:
     Time Series data and datetimes
     Store into flat files of different types
 
-    https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS - Pandas
+    https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS - Pandas.
